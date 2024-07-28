@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jhapendrakandel.
 - I'm High School Student.
 - I'm a programmer currnet working for developing own advanced website.
-- I'm a teen ager.
+- Mastering Backend (PHP, MySql, Python).
+- Mastered in REACT, HTML, CSS.
